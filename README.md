@@ -5,7 +5,7 @@ This repository highlights a few projects I've worked on for school assignments,
 * [Coding Projects](#coding-projects)
 * [Design Projects](#design-projects)
 
-## Coding Projects
+# Coding Projects
 
 ### Online Loan Form
 
@@ -69,6 +69,6 @@ Relevance: Teamwork, Asset Design, Game Physics
 
 *Completed Fall 2020*
 
-## Design Projects
+# Design Projects
 
 ...to be updated
