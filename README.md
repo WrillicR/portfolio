@@ -1,7 +1,11 @@
-# Wilson's Coding Portfolio
+# Wilson's Portfolio
 
 This repository highlights a few projects I've worked on for school assignments, work, and my own personal enjoyment. 
 
+* [Coding Projects](#coding-projects)
+* [Design Projects](#design-projects)
+
+## Coding Projects
 
 ### Online Loan Form
 
@@ -64,3 +68,7 @@ Relevance: Teamwork, Asset Design, Game Physics
 `Java` `Greenfoot` `Asset Design`
 
 *Completed Fall 2020*
+
+## Design Projects
+
+...to be updated
