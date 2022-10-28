@@ -1,4 +1,4 @@
-# My Coding Portfolio
+# Wilson's Coding Portfolio
 
 This repository highlights a few projects I've worked on for school assignments, work, and my own personal enjoyment. 
 
