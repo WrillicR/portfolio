@@ -1,11 +1,7 @@
 # Wilson's Portfolio
 
-This repository highlights a few projects I've worked on for school assignments, work, and my own personal enjoyment. 
+This repository highlights a few projects I've worked on for school assignments, work, and my own personal enjoyment. It's a work-in-progress.
 
-* [Coding Projects](#coding-projects)
-* [Design Projects](#design-projects)
-
-# Coding Projects
 
 ### Online Loan Form
 
@@ -69,6 +65,3 @@ Relevance: Teamwork, Asset Design, Game Physics
 
 *Completed Fall 2020*
 
-# Design Projects
-
-...to be updated
